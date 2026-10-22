@@ -2,14 +2,6 @@
 
 A simple authentication system built with Python to practice user registration, login validation, password hashing, and JSON file handling.
 
-## Features
-
-- User registration and login
-- Password hashing with SHA-256
-- JSON-based data storage
-- Duplicate email prevention
-- Basic error handling
-
 ## Technologies
 
 - Python 3
